@@ -1,0 +1,11 @@
+D:\Akashara\RayTracer_Framework\Application.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Application.obj
+D:\Akashara\RayTracer_Framework\common\math3d.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\math3d.obj
+D:\Akashara\RayTracer_Framework\Imageio\Imageio.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Imageio.obj
+D:\Akashara\RayTracer_Framework\Main.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Main.obj
+D:\Akashara\RayTracer_Framework\primitives\Sphere.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Sphere.obj
+D:\Akashara\RayTracer_Framework\primitives\Triangle.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Triangle.obj
+D:\Akashara\RayTracer_Framework\primitives\Wall.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Wall.obj
+D:\Akashara\RayTracer_Framework\Ray_Tracer.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Ray_Tracer.obj
+D:\Akashara\RayTracer_Framework\scene\Light.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Light.obj
+D:\Akashara\RayTracer_Framework\scene\Scene.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\Scene.obj
+D:\Akashara\RayTracer_Framework\scene\view_plane.cpp;D:\Akashara\RayTracer_Framework\RayTracer\Debug\view_plane.obj
